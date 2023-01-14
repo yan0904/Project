@@ -1,38 +1,38 @@
 
-E
+L
 java:S3740
-"/Provide the parametrized type for this generic.(ä‘ñª
-t	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
-m	java:S1274"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
-g
-java:S1104Ö"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
-l
-java:S1104×"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ
-h
-java:S1104Ø"QMake value a static final constant or non-public and provide accessors if needed.(‚Îóå
-r
-java:S1104î"VMake linenumber a static final constant or non-public and provide accessors if needed.(ªôü£ùÿÿÿÿ
+"/Provide the parametrized type for this generic.(ä‘ñª8Ë¼×‡Û0
+{	java:S135ó"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Ì¼×‡Û0
+t	java:S1274"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8Í¼×‡Û0
+n
+java:S1104Ö"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8Í¼×‡Û0
+s
+java:S1104×"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8Í¼×‡Û0
+o
+java:S1104Ø"QMake value a static final constant or non-public and provide accessors if needed.(‚Îóå8Í¼×‡Û0
+y
+java:S1104î"VMake linenumber a static final constant or non-public and provide accessors if needed.(ªôü£ùÿÿÿÿ8Í¼×‡Û0
 k
-java:S2259„"HA "NullPointerException" could be thrown; "assignExpr" is nullable here.(ìÔÅ»şÿÿÿÿ8ÿ«³ãÕ0
-g
-java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(šÇŸ
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(šÇŸ
-6	java:S131p""Add a default case to this switch.(î­™o
-=	java:S131‰""Add a default case to this switch.(„³¢Ïüÿÿÿÿ
-R	java:S125¢"<This block of commented-out lines of code should be removed.(‹Éï§
-i
-java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ªÛÆŠ
+java:S2259„"HA "NullPointerException" could be thrown; "assignExpr" is nullable here.(ìÔÅ»şÿÿÿÿ8²À×‡Û0
+n
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(šÇŸ8·À×‡Û0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(šÇŸ8¸À×‡Û0
+=	java:S131p""Add a default case to this switch.(î­™o8½À×‡Û0
+D	java:S131‰""Add a default case to this switch.(„³¢Ïüÿÿÿÿ8¿À×‡Û0
+Y	java:S125¢"<This block of commented-out lines of code should be removed.(‹Éï§8ÀÀ×‡Û0
+p
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÈŞ‹æ8ÆÀ×‡Û0
 R
-java:S2864ø"4Iterate over the "entrySet" instead of the "keySet".(…ÂÎä8¾ª¯ãÕ0
-m
-java:S3457ú"Q%n should be used in place of \n to produce the platform-specific line separator.(Àì‰¤ÿÿÿÿÿ
-T	java:S106ú"9Replace this use of System.out or System.err by a logger.(Àì‰¤ÿÿÿÿÿ
-h
-java:S3457ş"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğø§ã
-O	java:S106ş"9Replace this use of System.out or System.err by a logger.(Ğø§ã
-m
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¡õóúÿÿÿÿ
-T	java:S106"9Replace this use of System.out or System.err by a logger.(¡õóúÿÿÿÿ
-h
-java:S3457ı"Q%n should be used in place of \n to produce the platform-specific line separator.(ß•òˆ
-O	java:S106ı"9Replace this use of System.out or System.err by a logger.(ß•òˆ
+java:S2864ø"4Iterate over the "entrySet" instead of the "keySet".(…ÂÎä8ÆÀ×‡Û0
+t
+java:S3457ú"Q%n should be used in place of \n to produce the platform-specific line separator.(Àì‰¤ÿÿÿÿÿ8ÆÀ×‡Û0
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(Àì‰¤ÿÿÿÿÿ8ÆÀ×‡Û0
+o
+java:S3457ş"Q%n should be used in place of \n to produce the platform-specific line separator.(Ğø§ã8ÆÀ×‡Û0
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(Ğø§ã8ÆÀ×‡Û0
+t
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¡õóúÿÿÿÿ8ÆÀ×‡Û0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¡õóúÿÿÿÿ8ÆÀ×‡Û0
+o
+java:S3457ı"Q%n should be used in place of \n to produce the platform-specific line separator.(ß•òˆ8ÑÀ×‡Û0
+V	java:S106ı"9Replace this use of System.out or System.err by a logger.(ß•òˆ8ÑÀ×‡Û0

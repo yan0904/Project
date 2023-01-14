@@ -1,0 +1,15 @@
+int a = 3 ; int b = 5 ; real c = 3.0 ; real d = 4.0 ;
+
+{
+
+a = a + 1 ;
+
+b = b + a ;
+
+c = c * 2 ;
+
+if ( a < b ) then c = c / a ; else c = c / b ;
+
+if ( c < d ) then d = d / a ; else d = d * a ;
+
+}

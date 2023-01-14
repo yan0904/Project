@@ -1,0 +1,27 @@
+{
+
+while ( ID == NUM )
+
+{
+
+if ( ID >= ID )
+
+then
+
+{
+
+ID = ID + NUM ;
+
+}
+
+else
+
+{
+
+ID = NUM ;
+
+}
+
+}
+
+}

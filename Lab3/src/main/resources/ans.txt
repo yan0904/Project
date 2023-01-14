@@ -1,0 +1,63 @@
+program =>
+compoundstmt =>
+{ stmts } =>
+{ stmt stmts } =>
+{ stmt } =>
+{ whilestmt } =>
+{ while ( boolexpr ) stmt } =>
+{ while ( boolexpr ) compoundstmt } =>
+{ while ( boolexpr ) { stmts } } =>
+{ while ( boolexpr ) { stmt stmts } } =>
+{ while ( boolexpr ) { stmt } } =>
+{ while ( boolexpr ) { ifstmt } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else stmt } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else compoundstmt } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { stmts } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { stmt stmts } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { stmt } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { assgstmt } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = arithexpr ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = multexpr arithexprprime ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = multexpr ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = simpleexpr multexprprime ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = simpleexpr ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then stmt else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then compoundstmt else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { stmts } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { stmt stmts } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { stmt } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { assgstmt } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = arithexpr ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr arithexprprime ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr + multexpr arithexprprime ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr + multexpr ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr + simpleexpr multexprprime ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr + simpleexpr ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = multexpr + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = simpleexpr multexprprime + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = simpleexpr + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( boolexpr ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop arithexpr ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop multexpr arithexprprime ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop multexpr ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop simpleexpr multexprprime ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop simpleexpr ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr boolop ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( arithexpr >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( multexpr arithexprprime >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( multexpr >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( simpleexpr multexprprime >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( simpleexpr >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( boolexpr ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop arithexpr ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop multexpr arithexprprime ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop multexpr ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop simpleexpr multexprprime ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop simpleexpr ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr boolop NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( arithexpr == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( multexpr arithexprprime == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( multexpr == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( simpleexpr multexprprime == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( simpleexpr == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } } =>
+{ while ( ID == NUM ) { if ( ID >= ID ) then { ID = ID + NUM ; } else { ID = NUM ; } } }

@@ -5,5 +5,5 @@ n
 java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÁ¯èüÿÿÿÿ
 h
 java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ù¼â)
-J
-java:S1068I"-Remove this unused "errorList" private field.(ˆ…Îä8É’àçÕ0
+C
+java:S1068I"-Remove this unused "errorList" private field.(ˆ…Îä

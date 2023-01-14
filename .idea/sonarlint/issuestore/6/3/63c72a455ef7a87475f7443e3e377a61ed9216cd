@@ -1,0 +1,17 @@
+
+Z
+java:S6208Ù"CMerge the previous cases into this one using comma-separated label.(ˆÃİ€
+Z
+java:S6208"CMerge the previous cases into this one using comma-separated label.(¿“„Ü
+_
+java:S6208Â"CMerge the previous cases into this one using comma-separated label.(½Ñ¸ùÿÿÿÿ
+_
+java:S6208Ô"CMerge the previous cases into this one using comma-separated label.(Ùàæ˜ùÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ØŒâÀ
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÁ¯èüÿÿÿÿ
+h
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ù¼â)
+C
+java:S1068I"-Remove this unused "errorList" private field.(ˆ…Îä

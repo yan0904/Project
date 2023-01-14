@@ -1,0 +1,23 @@
+void dfs(int step)
+
+{
+
+	int i = 0;// 注释1 test
+
+	if ( step == n + 1 )/* 注释2 test */
+
+	{
+
+        for (i = 0; i != 10; ++i)
+
+        {
+
+            printf("%d",i);
+
+        }
+
+        return 0;
+
+	}
+
+}

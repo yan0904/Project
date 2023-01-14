@@ -578,7 +578,7 @@ public class LRParserAnalysis
     /**
      * 分析主函数
      */
-    private static void analysis()
+    public static void analysis()
     {
         readProg();
         states.push(0);

@@ -237,7 +237,7 @@ public class TranslationSchemaAnalysis
     /**
      * 处理主函数
      */
-    private static void analysis()
+    public static void analysis()
     {
         readProg();
         while(true){

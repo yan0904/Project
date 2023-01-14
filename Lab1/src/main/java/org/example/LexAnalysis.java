@@ -27,7 +27,7 @@ public class LexAnalysis
             prog.append(sc.nextLine()+'\n');
         }
     }
-    private static void analysis() {
+    public static void analysis() {
         readProg();
         Analyzer analyzer =new Analyzer(prog.toString());
         for (Token token = analyzer.nextToken(); token.getType() != TokenType.END; token = analyzer.nextToken()) {
@@ -613,7 +613,6 @@ class Analyzer{
             }
         }
     }
-
 }
 
 class ErrorMessage {

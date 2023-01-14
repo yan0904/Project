@@ -1,78 +1,78 @@
 
-E
-java:S3740"/Provide the parametrized type for this generic.(ä‘ñª
-E
-java:S3740"/Provide the parametrized type for this generic.(Ÿ¬¦İ
-E
-java:S3740"/Provide the parametrized type for this generic.(í´ª
-J
-java:S3740"/Provide the parametrized type for this generic.(ôé¢üÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(Û¨ıÖ
-J
-java:S3740"/Provide the parametrized type for this generic.(šÒèÛıÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(Ú£À
-E
-java:S3740"/Provide the parametrized type for this generic.(¬Ê¡
-J
-java:S3740"/Provide the parametrized type for this generic.(æÈ€Ôÿÿÿÿÿ
-E
-java:S3740 "/Provide the parametrized type for this generic.(¨ö¡æ
-E
-java:S3740!"/Provide the parametrized type for this generic.(Úš±´
-J
-java:S3740""/Provide the parametrized type for this generic.(œÁ¹èúÿÿÿÿ
-E
-java:S3740#"/Provide the parametrized type for this generic.(ÄÓÔ
-J
-java:S3740$"/Provide the parametrized type for this generic.(»Úšğüÿÿÿÿ
-J
-java:S3740%"/Provide the parametrized type for this generic.(Ã÷ùêûÿÿÿÿ
-E
-java:S3740&"/Provide the parametrized type for this generic.(¡ôÔ
-K
-java:S3740ø"/Provide the parametrized type for this generic.(¸ÉŠ†ùÿÿÿÿ
-]
-java:S1192!"GDefine a constant instead of duplicating this literal "boolop" 8 times.(Úš±´
-^
-java:S1192"HDefine a constant instead of duplicating this literal "program" 4 times.(í´ª
-]
-java:S1192Y"GDefine a constant instead of duplicating this literal "while" 14 times.(£æÜ¶
-_
-java:S1192 "IDefine a constant instead of duplicating this literal "boolexpr" 5 times.(¨ö¡æ
-i
-java:S1192%"NDefine a constant instead of duplicating this literal "multexprprime" 8 times.(Ã÷ùêûÿÿÿÿ
-e
-java:S1192$"JDefine a constant instead of duplicating this literal "multexpr" 10 times.(»Úšğüÿÿÿÿ
+L
+java:S3740"/Provide the parametrized type for this generic.(ä‘ñª8şÑ‡‡Û0
+L
+java:S3740"/Provide the parametrized type for this generic.(Ÿ¬¦İ8‡Ò‡‡Û0
+L
+java:S3740"/Provide the parametrized type for this generic.(í´ª8’Ò‡‡Û0
+Q
+java:S3740"/Provide the parametrized type for this generic.(ôé¢üÿÿÿÿ8œÒ‡‡Û0
+L
+java:S3740"/Provide the parametrized type for this generic.(Û¨ıÖ8¦Ò‡‡Û0
+Q
+java:S3740"/Provide the parametrized type for this generic.(šÒèÛıÿÿÿÿ8¦Ò‡‡Û0
+L
+java:S3740"/Provide the parametrized type for this generic.(Ú£À8¦Ò‡‡Û0
+L
+java:S3740"/Provide the parametrized type for this generic.(¬Ê¡8§Ò‡‡Û0
+Q
+java:S3740"/Provide the parametrized type for this generic.(æÈ€Ôÿÿÿÿÿ8§Ò‡‡Û0
+L
+java:S3740 "/Provide the parametrized type for this generic.(¨ö¡æ8§Ò‡‡Û0
+L
+java:S3740!"/Provide the parametrized type for this generic.(Úš±´8§Ò‡‡Û0
+Q
+java:S3740""/Provide the parametrized type for this generic.(œÁ¹èúÿÿÿÿ8§Ò‡‡Û0
+L
+java:S3740#"/Provide the parametrized type for this generic.(ÄÓÔ8¨Ò‡‡Û0
+Q
+java:S3740$"/Provide the parametrized type for this generic.(»Úšğüÿÿÿÿ8¨Ò‡‡Û0
+Q
+java:S3740%"/Provide the parametrized type for this generic.(Ã÷ùêûÿÿÿÿ8¨Ò‡‡Û0
+L
+java:S3740&"/Provide the parametrized type for this generic.(¡ôÔ8¨Ò‡‡Û0
+R
+java:S3740ø"/Provide the parametrized type for this generic.(¸ÉŠ†ùÿÿÿÿ8©Ò‡‡Û0
 d
-java:S1192"IDefine a constant instead of duplicating this literal "assgstmt" 9 times.(ôé¢üÿÿÿÿ
-b
-java:S1192&"LDefine a constant instead of duplicating this literal "simpleexpr" 14 times.(¡ôÔ
-a
-java:S1192"FDefine a constant instead of duplicating this literal "stmts" 6 times.(šÒèÛıÿÿÿÿ
-b
-java:S1192"GDefine a constant instead of duplicating this literal "ifstmt" 9 times.(ôé¢üÿÿÿÿ
+java:S1192!"GDefine a constant instead of duplicating this literal "boolop" 8 times.(Úš±´8«Ò‡‡Û0
+e
+java:S1192"HDefine a constant instead of duplicating this literal "program" 4 times.(í´ª8«Ò‡‡Û0
 d
-java:S1192"NDefine a constant instead of duplicating this literal "compoundstmt" 11 times.(í´ª
-e
-java:S1192"JDefine a constant instead of duplicating this literal "whilestmt" 9 times.(ôé¢üÿÿÿÿ
-e
-java:S1192#"ODefine a constant instead of duplicating this literal "arithexprprime" 8 times.(ÄÓÔ
-e
-java:S1192""JDefine a constant instead of duplicating this literal "arithexpr" 8 times.(œÁ¹èúÿÿÿÿ
-K
-java:S1066í"/Merge this if statement with the enclosing one.(œ‡¸ˆşÿÿÿÿ
-K
-java:S1066ü"/Merge this if statement with the enclosing one.(ğüƒÑüÿÿÿÿ
-F
-java:S1066‹"/Merge this if statement with the enclosing one.(‡é„£
+java:S1192Y"GDefine a constant instead of duplicating this literal "while" 14 times.(£æÜ¶8«Ò‡‡Û0
+f
+java:S1192 "IDefine a constant instead of duplicating this literal "boolexpr" 5 times.(¨ö¡æ8¬Ò‡‡Û0
+p
+java:S1192%"NDefine a constant instead of duplicating this literal "multexprprime" 8 times.(Ã÷ùêûÿÿÿÿ8¬Ò‡‡Û0
 l
-java:S1149Ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¿¾İªıÿÿÿÿ
-g
-java:S1149Í"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÜÎß¿
+java:S1192$"JDefine a constant instead of duplicating this literal "multexpr" 10 times.(»Úšğüÿÿÿÿ8­Ò‡‡Û0
+k
+java:S1192"IDefine a constant instead of duplicating this literal "assgstmt" 9 times.(ôé¢üÿÿÿÿ8­Ò‡‡Û0
 i
-java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ªÛÆŠ
-T	java:S106—"9Replace this use of System.out or System.err by a logger.(’½õìûÿÿÿÿ
-T	java:S106§"9Replace this use of System.out or System.err by a logger.(öØóùÿÿÿÿ
-T	java:S106©"9Replace this use of System.out or System.err by a logger.(ğËŒáøÿÿÿÿ
+java:S1192&"LDefine a constant instead of duplicating this literal "simpleexpr" 14 times.(¡ôÔ8®Ò‡‡Û0
+h
+java:S1192"FDefine a constant instead of duplicating this literal "stmts" 6 times.(šÒèÛıÿÿÿÿ8¯Ò‡‡Û0
+i
+java:S1192"GDefine a constant instead of duplicating this literal "ifstmt" 9 times.(ôé¢üÿÿÿÿ8¯Ò‡‡Û0
+k
+java:S1192"NDefine a constant instead of duplicating this literal "compoundstmt" 11 times.(í´ª8¯Ò‡‡Û0
+l
+java:S1192"JDefine a constant instead of duplicating this literal "whilestmt" 9 times.(ôé¢üÿÿÿÿ8¯Ò‡‡Û0
+l
+java:S1192#"ODefine a constant instead of duplicating this literal "arithexprprime" 8 times.(ÄÓÔ8±Ò‡‡Û0
+l
+java:S1192""JDefine a constant instead of duplicating this literal "arithexpr" 8 times.(œÁ¹èúÿÿÿÿ8±Ò‡‡Û0
+R
+java:S1066í"/Merge this if statement with the enclosing one.(œ‡¸ˆşÿÿÿÿ8³Ò‡‡Û0
+R
+java:S1066ü"/Merge this if statement with the enclosing one.(ğüƒÑüÿÿÿÿ8³Ò‡‡Û0
+M
+java:S1066‹"/Merge this if statement with the enclosing one.(‡é„£8³Ò‡‡Û0
+s
+java:S1149Ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¿¾İªıÿÿÿÿ8‡Ö‡‡Û0
+n
+java:S1149Í"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÜÎß¿8’Ö‡‡Û0
+p
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ÈŞ‹æ8§×‡‡Û0
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(’½õìûÿÿÿÿ8´×‡‡Û0
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(öØóùÿÿÿÿ8´×‡‡Û0
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ğËŒáøÿÿÿÿ8¸×‡‡Û0
